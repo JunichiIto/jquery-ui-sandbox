@@ -1,4 +1,4 @@
-* jquery-ui-sandbox
+# jquery-ui-sandbox
 
 A sandbox application for jQuery UI.
 
