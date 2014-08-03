@@ -26,7 +26,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
 gem 'spring',        group: :development
 
-gem 'jquery-ui-rails'
+gem 'jquery-ui-rails', '4.2.1'
 gem 'jquery-turbolinks'
 
 # Use ActiveModel has_secure_password
